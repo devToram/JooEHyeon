@@ -7,9 +7,9 @@ If there's anything funny, let me in!!
 
 ⚡ skillful : C, C++, Python, HTML, CSS
 
-⚡ normal : Java, Javascript, Unity, 
+⚡ normal : Java, Javascript, Unity
 
-⚡ Learning now : AndroidStudio
+⚡ Learning now : AndroidStudio, AI(ML, DL), DataAnalysis
 
 _(I will learn if I need other skills to do a project.)_
 
