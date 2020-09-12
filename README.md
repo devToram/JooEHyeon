@@ -3,10 +3,10 @@ I'm a college student looking for a interesting job.
 
 If there's anything funny, let me in!!
 
-![TechBlog](http://img.shields.io/badge/-Tech%20blog-darkgreen?style=flat-square&link=https://blog.naver.com/pjh980918)
+<!-- ![TechBlog](http://img.shields.io/badge/-Tech%20blog-darkgreen?style=flat-square&link=https://blog.naver.com/pjh980918) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionny-park-748149160/)](https://www.linkedin.com/in/dionny-park-748149160/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torammade@gmail.com)](mailto:torammade@gmail.com)
-![Instagram](http://img.shields.io/badge/-Instagram%20-purple?style=flat-square&logo=instagram&link=https://blog.naver.com/pjh980918)
+<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torammade@gmail.com)](mailto:torammade@gmail.com)
+![Instagram](http://img.shields.io/badge/-Instagram%20-purple?style=flat-square&logo=instagram&link=https://blog.naver.com/pjh980918)-->
 
 
 <hr/>
