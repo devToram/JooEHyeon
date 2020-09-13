@@ -1,12 +1,22 @@
-### 👋 Hi, everyone who visited my git. __I'm TORAM__
-I'm a college student looking for a interesting job. 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## I'm Toram looking for a interesting job✨
 
 If there's anything funny, let me in!!
 
-<!-- ![TechBlog](http://img.shields.io/badge/-Tech%20blog-darkgreen?style=flat-square&link=https://blog.naver.com/pjh980918) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionny-park-748149160/)](https://www.linkedin.com/in/dionny-park-748149160/)
-<!--[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torammade@gmail.com)](mailto:torammade@gmail.com)
-![Instagram](http://img.shields.io/badge/-Instagram%20-purple?style=flat-square&logo=instagram&link=https://blog.naver.com/pjh980918)-->
+<a href="https://github.com/JooEHyeon">
+  <img src="https://github-readme-stats.vercel.app/api?username=JooEHyeon&show_icons=true" alt="TORAM's GitHub Stats" />
+</a>
+<br/>
+
+ <a href="https://www.linkedin.com/in/dionny-park-748149160/">
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/z_hyeonny/?hl=ko">
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:torammade@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
 
 <hr/>
