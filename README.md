@@ -1,13 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-## I'm Toram looking for a interesting job✨
 
-If there's anything funny, let me in!!
-
-<a href="https://github.com/JooEHyeon">
-  <img src="https://github-readme-stats.vercel.app/api?username=JooEHyeon&show_icons=true" alt="TORAM's GitHub Stats" />
-</a>
-<br/>
-
+I'm **Toram** looking for a interesting job✨<br/>
+If there's anything funny, let me in!!<br/>
  <a href="https://www.linkedin.com/in/dionny-park-748149160/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -17,6 +11,12 @@ If there's anything funny, let me in!!
   <a href="mailto:torammade@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  
+
+<a href="https://github.com/JooEHyeon">
+  <img src="https://github-readme-stats.vercel.app/api?username=JooEHyeon&show_icons=true" alt="TORAM's GitHub Stats" />
+</a>
+<br/>
 
 
 <hr/>
