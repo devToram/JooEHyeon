@@ -2,16 +2,8 @@
 
 I'm **Toram** looking for a interesting job✨<br/>
 If there's anything funny, let me in!!<br/>
- <a href="https://www.linkedin.com/in/dionny-park-748149160/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/z_hyeonny/?hl=ko">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:torammade@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
+
+[![Linkedin Badge](https://img.shields.io/badge/-DIONNY_PARK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dionny-park-748149160/)](https://www.linkedin.com/in/dionny-park-748149160/) [![Gmail Badge](https://img.shields.io/badge/torammade@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:torammade@gmail.com)](mailto:torammade@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@zhyeonny-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/z_hyeonny/?hl=ko)](https://www.instagram.com/z_hyeonny/?hl=ko)
 
 <a href="https://github.com/JooEHyeon">
   <img src="https://github-readme-stats.vercel.app/api?username=JooEHyeon&show_icons=true" alt="TORAM's GitHub Stats" />
@@ -28,6 +20,8 @@ If there's anything funny, let me in!!<br/>
 ⚡ Learning now : AndroidStudio, AI(ML, DL), DataAnalysis
 
 _(I will learn if I need other skills to do a project.)_
+
+
 
 <!--
 **JooEHyeon/JooEHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
