@@ -13,6 +13,7 @@ If there's anything funny, let me in!!<br/>
 <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <br />
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
 <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> 
+<img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=Kotlin"> 
 <img src="https://img.shields.io/badge/-unity-black?style=flat&logo=unity"> <br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
 
