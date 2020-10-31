@@ -16,7 +16,7 @@ If there's anything funny, let me in!!<br/>
 <img src="https://img.shields.io/badge/-Kotlin-black?style=flat&logo=Kotlin"> 
 <img src="https://img.shields.io/badge/-unity-black?style=flat&logo=unity"> <br/>
 <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooEHyeon&count_bg=%23B0B0B0&title_bg=%23FD8F8F&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooEHyeon&count_bg=%23B0B0B0&title_bg=%23FD8F8F&icon=&icon_color=%23FF0000&title=TODAY&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/><br/>
 <a href="https://github.com/JooEHyeon" align="right">
